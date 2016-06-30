@@ -1,6 +1,6 @@
 {
   "name": "cnp/wp-theme-hooks",
-  "description": "Get the template array for content files.",
+  "description": "Build contextual action names",
   "type": "library",
   "license": "MIT",
   "homepage": "https://github.com/Clark-Nikdel-Powell/WP-Theme-Hooks",
